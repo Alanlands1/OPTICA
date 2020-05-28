@@ -7,9 +7,9 @@ In the proposed system, we plan to build a deep learning model to speed up disea
 The models were trained using the architectures Resnet, Densenet etc. After testing and retraining the model will be used to develop the system that have a user friendly interference. 
 
 Code for training the model is given in the folder "Model"
-## Dataset Link 2019: shorturl.at/EOVW2
+## Dataset Link 2019: http://shorturl.at/EOVW2
 ## Weigth File :https://www.kaggle.com/alanlands23/densenet
-## Dataset Link 2015: shorturl.at/ijRT7
+## Dataset Link 2015: http://shorturl.at/ijRT7
 
 Code for Deployment of Model using Flask is given in folder "Optica"
 
