@@ -1,5 +1,5 @@
 # OPTICA
-Blindness Detection using Diabetic Retinopathy
+Blindness Detection due to Diabetic Retinopathy using deep learning
 
 Diabetic retinopathy damages the blood vessels in retina. It is a disease that cause vision loss. It is usually seen in two categories of people one is the diabetic patients and other is the working age adult population.No symptoms can be seen during the early stage of this disease, so it progresses and loss of vision occurs.This problem can be solved only by the early detection of disease and its timely treatment. 
 
