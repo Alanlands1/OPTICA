@@ -8,7 +8,7 @@ The models were trained using the architectures Resnet, Densenet etc. After test
 
 Code for training the model is given in the folder "Model"
 ## Dataset Link 2019: https://www.kaggle.com/c/aptos2019-blindness-detection
-## Weigth File : https://www.kaggle.com/alanlands23/densenet
+## Weight File : https://www.kaggle.com/alanlands23/densenet
 ## Dataset Link 2015: https://www.kaggle.com/donkeys/retinopathy-train-2015
 
 Code for Deployment of Model using Flask is given in folder "Optica"
